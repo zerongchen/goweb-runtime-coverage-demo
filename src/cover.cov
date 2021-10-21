@@ -1,0 +1,14 @@
+mode: atomic
+goweb/src/help.go:9.52,11.18 2 1
+goweb/src/help.go:14.2,14.18 1 1
+goweb/src/help.go:11.18,13.3 1 0
+goweb/src/help.go:14.18,16.3 1 1
+goweb/src/help.go:16.8,16.25 1 0
+goweb/src/help.go:16.25,18.3 1 0
+goweb/src/help.go:18.8,20.3 1 0
+goweb/src/main.go:10.29,12.2 1 0
+goweb/src/main.go:14.51,16.27 2 4
+goweb/src/main.go:20.2,20.37 1 4
+goweb/src/main.go:16.27,19.3 2 1
+goweb/src/main.go:23.13,26.16 3 1
+goweb/src/main.go:26.16,28.3 1 0
